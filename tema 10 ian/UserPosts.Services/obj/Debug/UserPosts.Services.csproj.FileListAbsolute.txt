@@ -1,0 +1,8 @@
+C:\Users\seb\Desktop\W5Week11_2-master\UserPosts\UserPosts.Services\bin\Debug\UserPosts.Services.dll
+C:\Users\seb\Desktop\W5Week11_2-master\UserPosts\UserPosts.Services\bin\Debug\UserPosts.Services.pdb
+C:\Users\seb\Desktop\W5Week11_2-master\UserPosts\UserPosts.Services\bin\Debug\UserPosts.Domain.dll
+C:\Users\seb\Desktop\W5Week11_2-master\UserPosts\UserPosts.Services\bin\Debug\UserPosts.Domain.pdb
+C:\Users\seb\Desktop\W5Week11_2-master\UserPosts\UserPosts.Services\obj\Debug\UserPosts.Services.csprojAssemblyReference.cache
+C:\Users\seb\Desktop\W5Week11_2-master\UserPosts\UserPosts.Services\obj\Debug\UserPosts.Services.csproj.CopyComplete
+C:\Users\seb\Desktop\W5Week11_2-master\UserPosts\UserPosts.Services\obj\Debug\UserPosts.Services.dll
+C:\Users\seb\Desktop\W5Week11_2-master\UserPosts\UserPosts.Services\obj\Debug\UserPosts.Services.pdb

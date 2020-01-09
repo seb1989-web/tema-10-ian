@@ -1,0 +1,5 @@
+C:\Users\seb\Desktop\W5Week11_2-master\UserPosts\UserPosts.Domain\bin\Debug\UserPosts.Domain.dll
+C:\Users\seb\Desktop\W5Week11_2-master\UserPosts\UserPosts.Domain\bin\Debug\UserPosts.Domain.pdb
+C:\Users\seb\Desktop\W5Week11_2-master\UserPosts\UserPosts.Domain\obj\Debug\UserPosts.Domain.csprojAssemblyReference.cache
+C:\Users\seb\Desktop\W5Week11_2-master\UserPosts\UserPosts.Domain\obj\Debug\UserPosts.Domain.dll
+C:\Users\seb\Desktop\W5Week11_2-master\UserPosts\UserPosts.Domain\obj\Debug\UserPosts.Domain.pdb
